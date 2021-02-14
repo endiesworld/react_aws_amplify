@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <h3> React App with AWS Amplify Tutorial. Wmmanuel You Rock</h3>
         </a>
       </header>
     </div>
